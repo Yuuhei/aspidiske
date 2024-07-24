@@ -76,16 +76,16 @@ links:
       show: true
       href: https://github.com/Yuuhei
       icon: fab fa-github
-  - lastfm:
-      name: Last.fm
-      show: true
-      href: https://www.last.fm/user/Xceon
-      icon: fab fa-lastfm
   - facebook:
       name: Facebook
       show: true
       href: https://www.facebook.com/xInfinityEdge/
       icon: fab fa-facebook
+  - lastfm:
+      name: Last.fm
+      show: true
+      href: https://www.last.fm/user/Xceon
+      icon: fab fa-lastfm
   - spotify:
       name: Spotify
       show: true
@@ -96,8 +96,8 @@ links:
       show: true
       href: https://soundcloud.com/aspidiske-x
       icon: fab fa-facebook
-  - gpg:
-      name: GPG Key
+  - pgp:
+      name: PGP Key
       show: true
       href: https://raw.githubusercontent.com/Yuuhei/aspidiske/gh-pages/misc/pgpkey.txt
       icon: fas fa-terminal
@@ -107,7 +107,7 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+    Just your average guy on the internet.
+    Touhou Music enjoyer, Average Souls player.
 
 #EOF
