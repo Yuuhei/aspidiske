@@ -24,7 +24,7 @@ body {
 }
 
 div.glass-pane {
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.5);
     width: 100%;
     min-height: 90vh;  /* always cover at least the sky */
 }
@@ -131,7 +131,7 @@ footer {
         padding: 0;
     }
     a {
-        color: rgba(255, 255, 255, 0.6);
+        color: rgba(0, 0, 0, 0.6);
         text-decoration: none;
         &:hover {
             text-decoration: none;
