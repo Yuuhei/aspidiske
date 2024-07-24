@@ -76,11 +76,11 @@ links:
       show: true
       href: https://github.com/Yuuhei
       icon: fab fa-github
-  - facebook:
-      name: Facebook
+  - email:
+      name: E-Mail
       show: true
-      href: https://www.facebook.com/xInfinityEdge/
-      icon: fab fa-facebook
+      href: infinityedge120@gmail.com
+      icon: fas fa-envelope
   - lastfm:
       name: Last.fm
       show: true
@@ -101,6 +101,11 @@ links:
       show: true
       href: https://raw.githubusercontent.com/Yuuhei/aspidiske/gh-pages/misc/pgpkey.txt
       icon: fas fa-key
+- secret:
+      name: Secret (Please do not open!)
+      show: true
+      href: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+      icon: fas fa-ghost
 
 
 
