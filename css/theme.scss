@@ -37,7 +37,7 @@ div.fuse-core-content {
 /* --------- Avatar ---------------------------------------------------------------------------- */
 
 #avatar {
-    height: 180px;
+    height: 255px;
     border-radius: 100%;
     border: 5px solid white;
 }
@@ -125,13 +125,13 @@ footer {
     padding: 10px 0;
     width: 100%;
     font-size: smaller;
-    color: rgba(0, 0, 0, 0.4);
+    color: rgba(255, 255, 255, 0.4);
 
     .col {
         padding: 0;
     }
     a {
-        color: rgba(0, 0, 0, 0.6);
+        color: rgba(255, 255, 255, 0.6);
         text-decoration: none;
         &:hover {
             text-decoration: none;
