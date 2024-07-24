@@ -91,10 +91,15 @@ links:
       show: true
       href: https://open.spotify.com/user/cptnteemo
       icon: fab fa-spotify
+  - soundcloud:
+      name: SoundCloud
+      show: true
+      href: https://soundcloud.com/aspidiske-x
+      icon: fab fa-facebook
   - gpg:
       name: GPG Key
       show: true
-      href: https://open.spotify.com/user/cptnteemo
+      href: https://raw.githubusercontent.com/Yuuhei/aspidiske/gh-pages/misc/pgpkey.txt
       icon: fas fa-terminal
 
 
