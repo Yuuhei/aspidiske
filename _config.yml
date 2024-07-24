@@ -101,8 +101,8 @@ links:
       show: true
       href: https://raw.githubusercontent.com/Yuuhei/aspidiske/gh-pages/misc/pgpkey.txt
       icon: fas fa-key
-- secret:
-      name: Secret (Please do not open!)
+  - secret:
+      name: Secret (Please do not click!)
       show: true
       href: https://www.youtube.com/watch?v=dQw4w9WgXcQ
       icon: fas fa-ghost
