@@ -79,7 +79,7 @@ links:
   - email:
       name: E-Mail
       show: true
-      href: infinityedge120@gmail.com
+      href: https://raw.githubusercontent.com/Yuuhei/aspidiske/gh-pages/misc/mail.txt
       icon: fas fa-envelope
   - lastfm:
       name: Last.fm
@@ -102,7 +102,7 @@ links:
       href: https://raw.githubusercontent.com/Yuuhei/aspidiske/gh-pages/misc/pgpkey.txt
       icon: fas fa-key
   - secret:
-      name: Secret (Please do not click!)
+      name: Secret (Do not click!)
       show: true
       href: https://www.youtube.com/watch?v=dQw4w9WgXcQ
       icon: fas fa-ghost
